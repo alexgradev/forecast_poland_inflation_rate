@@ -4,4 +4,4 @@ This project models and forecasts inflation in Poland using ARIMA and ARIMAX mod
 
 ## Key Findings
 - ARIMAX model with external regressors (wages, unemployment, oil prices) significantly improves forecast accuracy.
-- The model captures COVID-era volatility using exogenous indicators.
+- The model captures post-COVID and Ukraine War-era volatility using exogenous indicators.
